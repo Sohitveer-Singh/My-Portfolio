@@ -402,6 +402,23 @@ main {
     margin-top: 2em;
   }
 
+  .about {
+    align-items: flex-start;
+    margin-top: 2em;
+    justify-content: center;
+  }
+
+  .about__desc {
+    text-align: center;
+  }
+
+  .about__contact{
+    display: flex;
+    min-width: 100vw;
+    justify-content: center;
+    align-items: center;
+  }
+  
   .footer {
     padding: 2em;
     margin-top: 3em;
